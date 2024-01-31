@@ -32,4 +32,4 @@ jobs:
 
       - run: cat ~/.aws/credentials
       - run: aws configure list-profiles
-      - run: aws s3 ls --region eu-central-1 --profile techstarter
+      - run: aws s3 ls --region eu-central-1 --profile Student-175273616942
