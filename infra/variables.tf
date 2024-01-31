@@ -4,5 +4,5 @@ default = "eu-central-1"
 }
 variable "aws_profile" {
 type = string
-default = "Student-175273616942"
+default = "175273616942_Student"
 }
